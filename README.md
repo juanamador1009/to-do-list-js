@@ -1,13 +1,20 @@
-# To-Do List
+# 📋 To-Do List
 
 A simple to-do list application built with HTML, CSS, and JavaScript. Tasks are stored locally in the browser using Local Storage.
 
-## Features
+## 📌 Features
 
 - Add new tasks.
 - Mark tasks as complete.
 - Delete tasks.
 - Data persistence with Local Storage.
+
+## 🚀 Technologies Used
+
+- HTML
+- CSS
+- JavaScript (Vanilla JS)
+- Local Storage
 
 ## 📸 Screenshots
 
@@ -19,16 +26,16 @@ A simple to-do list application built with HTML, CSS, and JavaScript. Tasks are 
 
 ![Mobile Display](./design/mobile.png)
 
-##### 4. Message Active State
+##### 3. Active Alert Message
 
 ![Active Alert Message](./design/active-task-alert.png)
 
-## Project Structure
+## 🧱 Project Structure
 
 ```
 /weather-app
 │── design/ # Screenshots of the different app states
-│── icons/ # Icons used in the interface
+│── icons/  # Icons used in the interface
 │── index.html
 │── style.css
 │── script.js
@@ -36,14 +43,7 @@ A simple to-do list application built with HTML, CSS, and JavaScript. Tasks are 
 │── .gitignore
 ```
 
-## Technologies Used
-
-- HTML
-- CSS
-- JavaScript (Vanilla JS)
-- Local Storage
-
-## Installation and Use
+## 🛠 Installation and Use
 
 1. Clone this repository:
 
